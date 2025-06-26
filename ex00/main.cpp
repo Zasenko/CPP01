@@ -14,7 +14,7 @@
 
 int main(void) {
 
-    Zombie *zombie = newZombie("Dima");
+    Zombie *zombie = newZombie("Fred");
     if (!zombie)
         return 1;
     zombie->announce();
