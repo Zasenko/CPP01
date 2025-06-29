@@ -1,4 +1,4 @@
-NAME = zombies
+NAME = BraiiiiiiinnnzzzZ
 CC = c++
 FLAGS = -Wall -Wextra -Werror -std=c++98
 SRC = main.cpp Zombie.cpp

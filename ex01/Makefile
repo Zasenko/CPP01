@@ -1,5 +1,5 @@
 
-NAME = zombies
+NAME = Moar_brainz
 CC = c++
 FLAGS = -Wall -Wextra -Werror -std=c++98
 SRC = main.cpp Zombie.cpp

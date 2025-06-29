@@ -1,4 +1,4 @@
-NAME = Sed
+NAME = Sed_is_for_losers
 CC = c++
 FLAGS = -Wall -Wextra -Werror -std=c++98
 SRC = main.cpp Editor.cpp
