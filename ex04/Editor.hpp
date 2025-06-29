@@ -14,15 +14,14 @@
 #define EDITOR_HPP
 
 #include <iostream>
+#include <fstream>
+#include <sstream>
 
 class Editor {
     public:
-        Editor(
-            std::string filename,
-            std::string s1,
-            std::string s2
-        );
+        Editor(char *filename, char *s1, char *s2);
         ~Editor();
+        void edit();
     private:
         std::string _filename;
         std::string _s1;
